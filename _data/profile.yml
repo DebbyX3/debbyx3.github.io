@@ -4,7 +4,7 @@ navbar_name: "Deborah Pintani"
 
 positions:
 - #logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: PhD Student in Computer Science at University of Verona (Italy)
+  name: PhD Candidate in Computer Science at University of Verona (Italy)
 #- name: Position 2 without logo
 
 
@@ -22,9 +22,9 @@ orcid: 0009-0006-0725-729X
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    My research combines visual computing, immersive technologies (Mixed Reality / Virtual Reality), and Human-Computer Interaction (HCI).
-    <br>
-    I'm currently focusing on computer graphics and computer vision techniques, particularly to enhance photorealistic rendering, with continued interest in immersive technologies.
+    My research combines <strong>computer vision</strong>, <strong>computer graphics</strong>, <strong>immersive technologies</strong> (Mixed Reality / Virtual Reality), and <strong>Human-Computer Interaction</strong> (HCI).
+    <br><br>
+    I am currently interested in photorealistic 3D scene representation and rendering, with an eye on novel-view synthesis and interactive immersive experiences.
     <br>
     Supervisor: Prof. Andrea Giachetti
   </p>
