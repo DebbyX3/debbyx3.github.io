@@ -6,7 +6,7 @@ pub:            "CHItaly 2025 - 16th Biannual Conference of the Italian SIGCHI C
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2025"
+# pub_date:       "2025"
 
 abstract: >-
   This work investigates how the visual realism of Virtual Reality environments affects visual attention and presence. 

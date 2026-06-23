@@ -6,20 +6,19 @@ pub:            "Computer Graphics International Conference 2026 (CGI)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2026"
+# pub_date:       "2026"
 
 abstract: >-
-  This work investigates how the visual realism of Virtual Reality environments affects visual attention and presence. 
-  It also explores whether head tracking can be used as a simple alternative to eye tracking for measuring visual saliency.
-cover:          /assets/images/covers/chitaly25.png
+  This work introduces a two-stage Gaussian Splatting approach for outdoor scene reconstruction. It separates foreground and background to improve novel-view synthesis and speed up rendering using an environment map.
+cover:          #/assets/images/covers/chitaly25.png
 authors:
   - Deborah Pintani
-  - Giulia Benvegnù
-  - Federico Maria Lorusso
-  - Cristiano Chiamulera
-  - Andrea Giachetti
   - Ariel Caputo
+  - Noah Lewis
+  - Marc Stamminger
+  - Fabio Pellacini
+  - Andrea Giachetti
 links:
-  Paper: https://dl.acm.org/doi/10.1145/3750069.3750321
-  Code: https://github.com/univr-GRAIL/VR_Saliency-Photorealism
+  Preprint: https://www.researchsquare.com/article/rs-9554866/v1
+  Paper coming soon: 
 ---
