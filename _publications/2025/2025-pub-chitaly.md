@@ -5,7 +5,7 @@ selected:       true
 pub:            "CHItaly 2025 - 16th Biannual Conference of the Italian SIGCHI Chapter"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       '<span class="badge badge-pill badge-publication badge-conference">CHItaly 25</span>'
 # pub_date:       "2025"
 
 abstract: >-

@@ -3,6 +3,7 @@ title:          "CIDER: Collaborative Interior Design in Extended Reality"
 date:           2023-09-20 00:01:00 +0800
 selected:       true
 pub:            "CHItaly 2023 - 15th Biannual Conference of the Italian SIGCHI Chapter"
+pub_last:       '<span class="badge badge-pill badge-publication badge-conference">CHItaly 23</span>'
 # pub_date:       "2023"
 abstract: >-
   This work presents a collaborative Mixed Reality system for editing shared 3D scenes. It allows users to work independently and safely combine their changes, improving collaboration during design tasks.

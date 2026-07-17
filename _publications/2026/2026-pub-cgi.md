@@ -2,10 +2,10 @@
 title:          "EnvMap-GS: two-stage outdoor Gaussian reconstruction with background-to-environment map baking"
 date:           2026-06-23 00:01:00 +0800
 selected:       true
-pub:            "Computer Graphics International Conference 2026 (CGI)"
+pub:            "Computer Graphics International Conference 2026"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Best Presentation</span>'
+pub_last:       '<span class="badge badge-pill badge-publication badge-conference">CGI 26</span> <span class="badge badge-pill badge-publication badge-success">⭐ Best Presentation</span>'
 # pub_date:       "2026"
 
 abstract: >-

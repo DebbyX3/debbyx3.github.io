@@ -86,6 +86,11 @@ div.lazy {
     font-size: 100%;
 }
 
+.badge-conference {
+    color: #fff;
+    background-color: #ea700d;
+}
+
 .email-text {
     font-family: Courier, monospace;
 }

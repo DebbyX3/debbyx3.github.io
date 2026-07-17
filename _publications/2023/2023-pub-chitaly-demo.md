@@ -3,6 +3,7 @@ title:          "Demo: Gesture based interaction with the Hololens 2"
 date:           2023-09-20 00:01:00 +0800
 selected:       false
 pub:            "CHItaly 2023 - 15th Biannual Conference of the Italian SIGCHI Chapter"
+pub_last:       '<span class="badge badge-pill badge-publication badge-conference">CHItaly 23</span>'
 # pub_date:       "2023"
 abstract: >-
   This demo shows an online gesture recognition system for XR that can detect and classify both static and dynamic hand gestures. It enables more flexible and expressive interaction design for different applications.

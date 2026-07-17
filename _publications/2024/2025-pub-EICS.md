@@ -2,10 +2,10 @@
 title:          "Integration of Extended Reality with a Cyber-Physical Factory Environment and its Digital Twins"
 date:           2024-06-17 00:01:00 +0800
 selected:       false
-pub:            "EICS 2024 - 16th ACM SIGCHI Symposium on Engineering Interactive Computing Systems"
+pub:            "16th ACM SIGCHI Symposium on Engineering Interactive Computing Systems"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       '<span class="badge badge-pill badge-publication badge-conference">EICS 24</span>'
 # pub_date:       "2024"
 
 abstract: >-
