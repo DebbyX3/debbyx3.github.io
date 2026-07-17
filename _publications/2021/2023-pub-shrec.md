@@ -6,7 +6,7 @@ pub:            "Computer & Graphics Journal"
 # pub_date:       "2021"
 abstract: >-
   This work presents the SHREC 2021 challenge on online hand gesture recognition from skeleton data. It introduces a new dataset of diverse gestures and compares different methods in a real-world recognition scenario.
-cover:          #/assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/shrec21.jpg
 authors:
   - Ariel Caputo
   - Andrea Giachetti

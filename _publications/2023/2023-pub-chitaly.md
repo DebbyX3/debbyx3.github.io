@@ -6,7 +6,7 @@ pub:            "CHItaly 2023 - 15th Biannual Conference of the Italian SIGCHI C
 # pub_date:       "2023"
 abstract: >-
   This work presents a collaborative Mixed Reality system for editing shared 3D scenes. It allows users to work independently and safely combine their changes, improving collaboration during design tasks.
-cover:          #/assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/ciderInternal.gif
 authors:
   - Deborah Pintani
   - Ariel Caputo

@@ -10,7 +10,7 @@ pub:            "VRST 2024 - Virtual Reality Software and Technology Conference"
 
 abstract: >-
   This demo presents a Virtual Reality application integrated with an Industry 4.0/5.0 laboratory digital twin. Users can explore the lab in VR and interact with machines to access data and information.
-cover:          #/assets/images/covers/chitaly25.png
+cover:          /assets/images/covers/demoVRST.png
 authors:
   - Deborah Pintani
   - Marco Emporio

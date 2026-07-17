@@ -10,7 +10,7 @@ pub:            "EICS 2024 - 16th ACM SIGCHI Symposium on Engineering Interactiv
 
 abstract: >-
   This work presents a Mixed and Virtual Reality system integrated into an Industry 4.0/5.0 demonstration lab. It allows users to monitor and interact with a digital factory through immersive interfaces and gesture-based controls.
-cover:          #/assets/images/covers/chitaly25.png
+cover:          /assets/images/covers/icelabAR.png
 authors:
   - Marco Emporio
   - Ariel Caputo

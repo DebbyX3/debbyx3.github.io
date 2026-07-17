@@ -10,7 +10,7 @@ pub:            "Behaviour & Information Technology Journal"
 
 abstract: >-
   Extension of the paper CIDER.
-cover:          #/assets/images/covers/chitaly25.png
+cover:          /assets/images/covers/cider2banner.png
 authors:
   - Deborah Pintani
   - Ariel Caputo

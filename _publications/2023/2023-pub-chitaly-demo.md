@@ -6,7 +6,7 @@ pub:            "CHItaly 2023 - 15th Biannual Conference of the Italian SIGCHI C
 # pub_date:       "2023"
 abstract: >-
   This demo shows an online gesture recognition system for XR that can detect and classify both static and dynamic hand gestures. It enables more flexible and expressive interaction design for different applications.
-cover:          #/assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/demoICEchitaly.png
 authors:
   - Marco Emporio
   - Ariel Caputo
